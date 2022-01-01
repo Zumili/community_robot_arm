@@ -4,6 +4,9 @@
 Community robot arm is an open source collaboration project participated by an online community of learners & developers. It was developed based on the original design by [Florin Tobler](https://www.thingiverse.com/1718984)<br/> with multiple rounds of open hardware & software modification.
 
 **REPOSITORY OF COMMUNITY ROBOT ARM**
+* arduino_firmware Version V0.81z (01Jan2022)
+  - ESP32 (WEMOS D1R32) SUPPORT WITH OLDER PS3 JOYSTICK
+  - FIXED WIIMOTE #ifdef's TO NOT INCLUDE WIIMOTE IF NOT USED
 * arduino_firmware Version V0.81 (07Aug2021)
   - ESP32 (WEMOS D1R32) SUPPORT WITH WIIMOTE
   - ESP32 JOYSTICK ADJUSTABLE SPEED MULTIPLIER CONFIG
